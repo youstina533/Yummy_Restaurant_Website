@@ -4,7 +4,7 @@ svg {
      height:50px;
 }
 footer a{
-    color:rgb(220 53 69);
+   text-decoration: none;
 }
 html,body{
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -21,4 +21,5 @@ nav{
     display: flex;
     align-items: center; 
     top:0px;
+
 }
