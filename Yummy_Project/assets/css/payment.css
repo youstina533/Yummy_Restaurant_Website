@@ -15,7 +15,7 @@ hr{
     box-shadow:0 6px 10px rgba(0,0,0,0.2);
 }
 .btn-credit , .btn-cash{
-    padding:15px 50px 15px 50px;
+
     font-size:20px;
 }
 .Payment{
@@ -40,3 +40,4 @@ form , .address, .summary-food-div , .total{
     font-size: 20px;
     line-height: 50px;
 }
+
