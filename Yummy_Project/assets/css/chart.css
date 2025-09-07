@@ -37,8 +37,6 @@ hr{
 }
 .payment-btn{
     margin-top:60px;
-    position: relative;
-    left:30%;
-    padding:20px 190px 20px 190px ;
     font-size: 25px;
+
 }
