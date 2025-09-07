@@ -12,6 +12,7 @@ html,body{
     margin: 0;
     box-sizing: border-box;
     height: 100%;
+     overflow-x: hidden;
 }
  body {
         display: flex;
@@ -23,3 +24,4 @@ nav{
     top:0px;
 
 }
+
